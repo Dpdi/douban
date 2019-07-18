@@ -1,0 +1,21 @@
+douban  首页
+  {
+    yyry 查看更多
+
+bd  榜单
+  {
+    dybd  2018年度电影榜单
+      {
+        pfzg  评分最高华语电影
+        
+    top250  豆瓣Top250
+      {
+        xsk  肖申克的救赎
+          {
+            xk 想看
+            kg 看过
+            xsk_dp 《肖申克的救赎》的...
+
+wode  我的
+  {
+    gyfx 观影分析
